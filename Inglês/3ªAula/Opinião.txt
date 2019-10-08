@@ -1,0 +1,26 @@
+---Opinião Sobre as Logos---
+
+	1-Dev Girls:
+	Acho que é uma empresa de programação específica para mulheres.
+
+	2-Journey:
+	Acho que é uma empresa que planeja e realiza viagens.
+
+	3-Ladie Shop:
+	Imagino que seja uma empresa destinada a venda de roupas femininas.
+
+	4-Wifi:
+	Imagino que seja uma empresa de compra de jogos.
+
+	5-Brightside:
+	Algo relacionado a móveis.
+
+	6-Time:
+	Aplicativo de relógio, temporizador, etc...
+
+	7-Culture (be curious, be brazilian):
+	Como um mercado livre destinado a cultura brasileira.
+
+	8-Anonymous:
+	Empresa destinada a segurança de dados.
+	

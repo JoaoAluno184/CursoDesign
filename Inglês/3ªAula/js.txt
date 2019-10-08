@@ -1,0 +1,38 @@
+Frente - moveForward( );
+esquerda - turnLeft( );
+direita - turnRight( );
+
+O Carro:
+	moveForward( );
+	turnRight( );
+	for(var i=0; i<6; i++){
+		moveForward( );
+	}
+	turnLeft( );
+	for(i=0; i<6; i++){
+		moveForward( );
+	}
+
+A Moto:
+	turnRight( );
+	moveForward( );
+	turnRight( );
+	for(var i=0; i<2; i++){
+		moveForward( );
+	}
+	turnLeft( );
+	for(var i=0; i<2; i++){
+		moveForward( );
+	}
+	turnRight( );
+	for(var i=0; i<2; i++){
+		moveForward( );
+	}
+	turnLeft( );
+	for(var i=0; i<4; i++){
+		moveForward( );
+		turnRight( );
+	}
+	for(var i=0; i<4; i++){
+	moveForward( );
+	}

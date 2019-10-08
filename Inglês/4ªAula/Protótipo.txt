@@ -1,0 +1,11 @@
+PROTÓTIPO:
+
+	esboço, molde, modelo, estrutura, criação, teste, exemplo, padrão, base, origem, versão, FLUXO;
+
+	ANALÓGICOS X DIGITAIS;
+
+	Wireframe = Estrutura de Arame
+	Wire = Arame
+	Frame = Quadro, grade...
+
+	IDE = Adobe XD
